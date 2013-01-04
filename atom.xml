@@ -4,7 +4,7 @@
   <title><![CDATA[As Note]]></title>
   <link href="http://qsat.github.com/atom.xml" rel="self"/>
   <link href="http://qsat.github.com/"/>
-  <updated>2013-01-04T22:07:32+09:00</updated>
+  <updated>2013-01-04T22:14:24+09:00</updated>
   <id>http://qsat.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://qsat.github.com/blog/2013/01/04/test/"/>
+    <updated>2013-01-04T22:11:00+09:00</updated>
+    <id>http://qsat.github.com/blog/2013/01/04/test</id>
+    <content type="html"><![CDATA[<h2>あいうえお</h2>
+]]></content>
+  </entry>
   
 </feed>
