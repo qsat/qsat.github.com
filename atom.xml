@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[As Note]]></title>
+  <link href="http://qsat.github.com/atom.xml" rel="self"/>
+  <link href="http://qsat.github.com/"/>
+  <updated>2013-01-04T22:07:32+09:00</updated>
+  <id>http://qsat.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

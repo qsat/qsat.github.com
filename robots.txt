@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://qsat.github.com/sitemap.xml 
